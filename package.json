@@ -1,1 +1,7 @@
-
+{
+  "name": "eagler-host",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node backend/server.js & node relay/relay.js"
+  }
+}
